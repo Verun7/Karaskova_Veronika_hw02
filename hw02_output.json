@@ -1,0 +1,561 @@
+[
+    {
+        "title": "Along Came a Spider",
+        "directors": [
+            "Lee Tamahori"
+        ],
+        "cast": [
+            "Morgan Freeman",
+            "Monica Potter",
+            "Michael Wincott",
+            "Dylan Baker",
+            "Mika Boorem",
+            "Anton Yelchin",
+            "Kim Hawthorne",
+            "Jay O. Sanders",
+            "Billy Burke",
+            "Michael Moriarty",
+            "Penelope Ann Miller"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "decade": 2000
+    },
+    {
+        "title": "The Waterboy",
+        "directors": [
+            "Frank Coraci"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Kathy Bates",
+            "Henry Winkler",
+            "Fairuza Balk",
+            "Jerry Reed",
+            "Lawrence Gilliard Jr.",
+            "Blake Clark",
+            "Peter Dante",
+            "Jonathan Loughran",
+            "Al Whiting"
+        ],
+        "genres": [
+            "Comedy",
+            "Sport"
+        ],
+        "decade": 1990
+    },
+    {
+        "title": "Power Rangers Turbo",
+        "directors": [],
+        "cast": [
+            "Johnny Yong Bosch",
+            "Nakia Burrise",
+            "Blake Foster",
+            "Jason David Frank",
+            "Catherine Sutherland",
+            "Carol Hoyt",
+            "Jason Narvy",
+            "Paul Schrier",
+            "Gregg Bullock",
+            "Hilary Shepard",
+            "Tracy Lynn Cruz",
+            "Patricia Ja Lee",
+            "Roger Velasco",
+            "Selwyn Ward",
+            "Donene Kistler"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
+        ],
+        "decade": 1990
+    },
+    {
+        "title": "Kurt & Courtney",
+        "directors": [
+            "Nick Broomfield"
+        ],
+        "cast": [
+            "Kurt Cobain",
+            "Courtney Love"
+        ],
+        "genres": [
+            "Crime",
+            "Documentary",
+            "Music"
+        ],
+        "decade": 1990
+    },
+    {
+        "title": "Wet Hot American Summer",
+        "directors": [
+            "David Wain"
+        ],
+        "cast": [
+            "Janeane Garofalo",
+            "David Hyde Pierce",
+            "Michael Showalter",
+            "Marguerite Moreau",
+            "Michael Ian Black",
+            "Zak Orth",
+            "A.D. Miles",
+            "Paul Rudd",
+            "Christopher Meloni",
+            "Molly Shannon",
+            "Ken Marino",
+            "Joe Lo Truglio",
+            "Amy Poehler",
+            "Bradley Cooper",
+            "Gideon Jacobs",
+            "Elizabeth Banks"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "decade": 2000
+    },
+    {
+        "title": "The Ryan White Story",
+        "directors": [
+            "John Herzfeld"
+        ],
+        "cast": [
+            "Judith Light",
+            "Lukas Haas",
+            "Michael Bowen",
+            "Nikki Cox",
+            "George Dzundza",
+            "Valerie Landsburg",
+            "Sarah Jessica Parker",
+            "Mitchell Ryan"
+        ],
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "decade": 1980
+    },
+    {
+        "title": "Rajnigandha",
+        "directors": [
+            "Basu Chatterjee"
+        ],
+        "cast": [
+            "Vidya Sinha",
+            "Amol Palekar",
+            "Dinesh Thakur",
+            "Ranjita Thakur",
+            "Veena Gaud",
+            "Manju Maini"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "decade": 1970
+    },
+    {
+        "title": "No Entry",
+        "directors": [
+            "Anees Bazmee"
+        ],
+        "cast": [
+            "Anil Kapoor",
+            "Salman Khan",
+            "Fardeen Khan",
+            "Bipasha Basu",
+            "Lara Dutta",
+            "Esha Deol",
+            "Celina Jaitly",
+            "Boman Irani"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ],
+        "decade": 2000
+    },
+    {
+        "title": "The Twins Effect II",
+        "directors": [
+            "Corey Yuen",
+            "Patrick Leung"
+        ],
+        "cast": [
+            "Donnie Yen",
+            "Jaycee Chan",
+            "Charlene Choi",
+            "Gillian Chung",
+            "Wilson Chen Bo-Lin",
+            "Tony Leung Ka Fai",
+            "Qu Ying",
+            "Fan Bingbing",
+            "Xie Jing-jing",
+            "Daniel Wu",
+            "Edison Chen",
+            "Jackie Chan"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
+    },
+    {
+        "title": "On the Wrong Track",
+        "directors": [
+            "Clarence Yiu-leung Fok"
+        ],
+        "cast": [
+            "Andy Lau",
+            "Yim Chau-wah",
+            "Wai Yee Chan",
+            "Prudence Liew",
+            "Poon Wang Ban",
+            "Hua Yueh",
+            "Wong Kung-miu"
+        ],
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "decade": 1980
+    },
+    {
+        "title": "Wazir",
+        "directors": [
+            "Bejoy Nambiar"
+        ],
+        "cast": [
+            "Amitabh Bachchan",
+            "Farhan Akhtar",
+            "Aditi Rao Hydari",
+            "Manav Kaul",
+            "Neil Nitin Mukesh",
+            "John Abraham"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "decade": 2010
+    },
+    {
+        "title": "Kingpin",
+        "directors": [
+            "Peter Farrelly",
+            "Bobby Farrelly"
+        ],
+        "cast": [
+            "Woody Harrelson",
+            "Randy Quaid",
+            "Vanessa Angel",
+            "Bill Murray",
+            "Chris Elliott",
+            "William Jordan",
+            "Richard Tyson",
+            "Lin Shaye"
+        ],
+        "genres": [
+            "Comedy",
+            "Sport"
+        ],
+        "decade": 1990
+    },
+    {
+        "title": "John Carter",
+        "directors": [
+            "Andrew Stanton"
+        ],
+        "cast": [
+            "Taylor Kitsch",
+            "Lynn Collins",
+            "Samantha Morton",
+            "Willem Dafoe",
+            "Thomas Haden Church",
+            "Mark Strong",
+            "Ciarán Hinds",
+            "Dominic West",
+            "James Purefoy",
+            "Bryan Cranston",
+            "Polly Walker",
+            "Daryl Sabara",
+            "Art Malik",
+            "Eileen Page",
+            "Amanda Clayton",
+            "Davood Ghadami",
+            "Daniel O'Meara",
+            "Jill Baker",
+            "Josh Daugherty",
+            "Oliver Boot",
+            "Philip Arditti",
+            "Arkie Reece",
+            "Joe Billingiere",
+            "Don Stark",
+            "Darwin Shaw",
+            "Figs Jackman",
+            "David Schwimmer",
+            "Emma Clifford",
+            "Christopher Goodman",
+            "Cate Fowler",
+            "Sean Carrigan",
+            "Dusty Sorg",
+            "Steven Cree",
+            "Phil Cheadle",
+            "Holly Weston",
+            "Nicholas Woodeson",
+            "Rupert Frazer",
+            "Edmund Kente"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "decade": 2010
+    },
+    {
+        "title": "Nang Nak",
+        "directors": [
+            "Nonzee Nimibutr"
+        ],
+        "cast": [
+            "Inthira Charoenpura",
+            "Winai Kraibutr"
+        ],
+        "genres": [
+            "Horror",
+            "Romance",
+            "War"
+        ],
+        "decade": 1990
+    },
+    {
+        "title": "National Treasure",
+        "directors": [
+            "Jon Turteltaub"
+        ],
+        "cast": [
+            "Nicolas Cage",
+            "Diane Kruger",
+            "Justin Bartha",
+            "Sean Bean",
+            "Jon Voight",
+            "Harvey Keitel",
+            "Christopher Plummer"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ],
+        "decade": 2000
+    },
+    {
+        "title": "Ram Teri Ganga Maili",
+        "directors": [
+            "Raj Kapoor"
+        ],
+        "cast": [
+            "Mandakini",
+            "Rajiv Kapoor",
+            "Divya Rana",
+            "Saeed Jaffrey",
+            "Kulbhushan Kharbanda",
+            "Raza Murad",
+            "Sushma Seth",
+            "Trilok Kapoor"
+        ],
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "decade": 1980
+    },
+    {
+        "title": "Ferris Bueller's Day Off",
+        "directors": [
+            "John Hughes"
+        ],
+        "cast": [
+            "Matthew Broderick",
+            "Alan Ruck",
+            "Mia Sara",
+            "Jeffrey Jones",
+            "Jennifer Grey",
+            "Cindy Pickett",
+            "Lyman Ward",
+            "Edie McClurg",
+            "Charlie Sheen",
+            "Kristy Swanson",
+            "Ben Stein",
+            "Del Close"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1980
+    },
+    {
+        "title": "Lal Patthar",
+        "directors": [
+            "Sushil Majumdar"
+        ],
+        "cast": [
+            "Raaj Kumar",
+            "Hema Malini",
+            "Rakhee Gulzar",
+            "Vinod Mehra",
+            "Asit Kumar Sen",
+            "Paintal",
+            "Dulari",
+            "Chandramohan",
+            "Sujata Bakshi",
+            "Meena T."
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "decade": 1970
+    },
+    {
+        "title": "Monty Python's Life of Brian",
+        "directors": [
+            "Terry Jones"
+        ],
+        "cast": [
+            "Graham Chapman",
+            "John Cleese",
+            "Terry Gilliam",
+            "Eric Idle",
+            "Terry Jones",
+            "Michael Palin",
+            "Terence Bayler",
+            "Carol Cleveland"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "decade": 1970
+    },
+    {
+        "title": "Event Horizon",
+        "directors": [
+            "Paul W.S. Anderson"
+        ],
+        "cast": [
+            "Laurence Fishburne",
+            "Sam Neill",
+            "Kathleen Quinlan",
+            "Joely Richardson",
+            "Richard T. Jones",
+            "Jack Noseworthy",
+            "Jason Isaacs",
+            "Sean Pertwee"
+        ],
+        "genres": [
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "decade": 1990
+    },
+    {
+        "title": "Starsky & Hutch",
+        "directors": [
+            "Todd Phillips"
+        ],
+        "cast": [
+            "Ben Stiller",
+            "Owen Wilson",
+            "Vince Vaughn",
+            "Juliette Lewis",
+            "Snoop Dogg",
+            "Fred Williamson",
+            "Jason Bateman",
+            "Amy Smart",
+            "Carmen Electra",
+            "George Cheung"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 2000
+    },
+    {
+        "title": "The Brothers Grimm",
+        "directors": [
+            "Terry Gilliam"
+        ],
+        "cast": [
+            "Matt Damon",
+            "Heath Ledger",
+            "Monica Bellucci",
+            "Lena Headey",
+            "Peter Stormare",
+            "Jonathan Pryce",
+            "Roger Ashton-Griffiths",
+            "Richard Ridings",
+            "Mackenzie Crook",
+            "Julian Bleach",
+            "Tomás Hanák",
+            "Laura Greenwood"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "decade": 2000
+    },
+    {
+        "title": "Deewangee",
+        "directors": [
+            "Anees Bazmee"
+        ],
+        "cast": [
+            "Ajay Devgn",
+            "Akshaye Khanna",
+            "Urmila Matondkar",
+            "Farida Jalal",
+            "Vijayendra Ghatge"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "decade": 2000
+    },
+    {
+        "title": "Hera Pheri",
+        "directors": [
+            "Prakash Mehra"
+        ],
+        "cast": [
+            "Amitabh Bachchan",
+            "Vinod Khanna",
+            "Saira Banu",
+            "Sulakshana Pandit",
+            "Shreeram Lagoo",
+            "Pinchoo Kapoor",
+            "P. Jairaj",
+            "Yunus Parvez"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "decade": 1970
+    }
+]
