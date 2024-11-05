@@ -18,6 +18,7 @@ for index, row in df_netflix.iterrows():
     netflix_dictionary["directors"] = find_nan_and_split(row["DIRECTOR"])
     netflix_dictionary["cast"] = find_nan_and_split(row["CAST"])
     genres = row["GENRES"]
+    genres = str(genres)
     genres_split = genres.split(",")
     netflix_dictionary["genres"] = genres_split
     decade = row["STARTYEAR"]
